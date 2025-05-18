@@ -25,7 +25,6 @@
 - Simulations with physics and collisions (MRU, MRUV, impulse, friction)
 - Artificial Intelligence for games
 - Web apps with Python (Flask) and JavaScript
-- Philosophical concepts, especially Socrates, Plato, and Kant
 
 ---
 
@@ -34,7 +33,7 @@
 - Unity (C# scripting, animation, UI, enemy AI)
 - Python for automation and scheduling systems (e.g., WhatsApp reminders, Google Calendar integration)
 - HTML, CSS, and JavaScript for web interfaces
-- English grammar (present tenses, reported speech)
+- English grammar
 
 ---
 
